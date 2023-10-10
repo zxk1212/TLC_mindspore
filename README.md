@@ -1,4 +1,4 @@
-# Provable Robust Calibration
+# Trustworthy Long-Tailed Classification 
 
 This repository contains the MindSpore implementation code for the paper "Trustworthy Long-Tailed Classification".
 
